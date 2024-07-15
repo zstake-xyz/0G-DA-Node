@@ -4,7 +4,7 @@
 | Category | Requirements |
 | ------------ | ------------ |
 | CPU | 8+ cores |
-| RAM | 64+ GB |
+| RAM | 16+ GB |
 | Storage | 1 TB NVME SSD |
 | Bandwidth | 100 MBps for Download / Upload |
 
